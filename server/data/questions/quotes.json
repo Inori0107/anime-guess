@@ -1,0 +1,112 @@
+[
+  {
+    "id": "quote-naruto-believe",
+    "quote": "我相信你，因為你是我認可的人。",
+    "answerKind": "character",
+    "correct": "漩渦鳴人",
+    "distractors": [
+      "宇智波佐助",
+      "旗木卡卡西",
+      "我愛羅"
+    ]
+  },
+  {
+    "id": "quote-luffy-king",
+    "quote": "我是要成為海賊王的男人！",
+    "answerKind": "character",
+    "correct": "蒙奇·D·魯夫",
+    "distractors": [
+      "羅羅亞·索隆",
+      "香克斯",
+      "白鬍子"
+    ]
+  },
+  {
+    "id": "quote-aot-freedom",
+    "quote": "從這一刻起，我就不再生活在牆內了。",
+    "answerKind": "character",
+    "correct": "艾連·葉卡",
+    "distractors": [
+      "米卡莎·阿卡曼",
+      "阿爾敏·亞魯雷特",
+      "里維·阿卡曼"
+    ]
+  },
+  {
+    "id": "quote-demonslayer-family",
+    "quote": "禰豆子是人類，絕對不會傷害人類！",
+    "answerKind": "character",
+    "correct": "竈門炭治郎",
+    "distractors": [
+      "竈門禰豆子",
+      "我妻善逸",
+      "冨岡義勇"
+    ]
+  },
+  {
+    "id": "quote-jjk-gojo",
+    "quote": "天上天下，唯我獨尊。",
+    "answerKind": "character",
+    "correct": "五條悟",
+    "distractors": [
+      "虎杖悠仁",
+      "兩面宿儺",
+      "夏油傑"
+    ]
+  },
+  {
+    "id": "quote-naruto-anime",
+    "quote": "木葉忍村的最強下忍，就是我漩渦鳴人！",
+    "answerKind": "anime",
+    "correct": "火影忍者",
+    "distractors": [
+      "海賊王",
+      "死神",
+      "銀魂"
+    ]
+  },
+  {
+    "id": "quote-onepiece-anime",
+    "quote": "想要我的財寶嗎？想要的話可以全部給你，去找吧！我把所有財寶都放在那裡。",
+    "answerKind": "anime",
+    "correct": "海賊王",
+    "distractors": [
+      "火影忍者",
+      "進擊的巨人",
+      "名偵探柯南"
+    ]
+  },
+  {
+    "id": "quote-demonslayer-anime",
+    "quote": "鬼舞辻無慘……我一定要打敗你。",
+    "answerKind": "anime",
+    "correct": "鬼滅之刃",
+    "distractors": [
+      "咒術迴戰",
+      "進擊的巨人",
+      "鋼之鍊金術師"
+    ]
+  },
+  {
+    "id": "quote-conan",
+    "quote": "真相永遠只有一個！",
+    "answerKind": "character",
+    "correct": "江戶川柯南",
+    "distractors": [
+      "工藤新一",
+      "毛利小五郎",
+      "怪盜基德"
+    ]
+  },
+  {
+    "id": "quote-fma",
+    "quote": "等價交換，這是鍊金術的基本原則。",
+    "answerKind": "anime",
+    "correct": "鋼之鍊金術師",
+    "distractors": [
+      "火影忍者",
+      "死神",
+      "幽遊白書"
+    ]
+  }
+]

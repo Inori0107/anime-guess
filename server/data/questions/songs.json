@@ -1,0 +1,106 @@
+[
+  {
+    "id": "song-tank",
+    "audioUrl": "https://a.animethemes.moe/CowboyBebop-OP1.ogg",
+    "clipStartSec": 0,
+    "clipDurationSec": 8,
+    "anime": "星際牛仔",
+    "correct": "Tank!",
+    "distractors": [
+      "unravel",
+      "again",
+      "紅蓮の弓矢"
+    ]
+  },
+  {
+    "id": "song-unravel",
+    "audioUrl": "https://a.animethemes.moe/TokyoGhoul-OP1.ogg",
+    "clipStartSec": 0,
+    "clipDurationSec": 8,
+    "anime": "東京喰種",
+    "correct": "unravel",
+    "distractors": [
+      "Tank!",
+      "We Are!",
+      "again"
+    ]
+  },
+  {
+    "id": "song-again",
+    "audioUrl": "https://a.animethemes.moe/FullmetalAlchemistBrotherhood-OP1.ogg",
+    "clipStartSec": 0,
+    "clipDurationSec": 8,
+    "anime": "鋼之鍊金術師 BROTHERHOOD",
+    "correct": "again",
+    "distractors": [
+      "Tank!",
+      "unravel",
+      "紅蓮の弓矢"
+    ]
+  },
+  {
+    "id": "song-guren",
+    "audioUrl": "https://a.animethemes.moe/ShingekiNoKyojin-OP1.ogg",
+    "clipStartSec": 0,
+    "clipDurationSec": 8,
+    "anime": "進擊的巨人",
+    "correct": "紅蓮の弓矢",
+    "distractors": [
+      "We Are!",
+      "again",
+      "Tank!"
+    ]
+  },
+  {
+    "id": "song-weare",
+    "audioUrl": "https://a.animethemes.moe/OnePiece-OP1-NCDVD480.ogg",
+    "clipStartSec": 0,
+    "clipDurationSec": 8,
+    "anime": "海賊王",
+    "correct": "We Are!",
+    "distractors": [
+      "紅蓮の弓矢",
+      "unravel",
+      "again"
+    ]
+  },
+  {
+    "id": "song-kaikai",
+    "audioUrl": "https://a.animethemes.moe/JujutsuKaisen-OP1-NCBD1080.ogg",
+    "clipStartSec": 0,
+    "clipDurationSec": 8,
+    "anime": "咒術迴戰",
+    "correct": "廻廻奇譚",
+    "distractors": [
+      "紅蓮の弓矢",
+      "We Are!",
+      "unravel"
+    ]
+  },
+  {
+    "id": "song-guren-2",
+    "audioUrl": "https://a.animethemes.moe/KimetsuNoYaiba-OP1-NCBD1080.ogg",
+    "clipStartSec": 0,
+    "clipDurationSec": 8,
+    "anime": "鬼滅之刃",
+    "correct": "紅蓮華",
+    "distractors": [
+      "廻廻奇譚",
+      "again",
+      "Tank!"
+    ]
+  },
+  {
+    "id": "song-peace-sign",
+    "audioUrl": "https://a.animethemes.moe/BokuNoHeroAcademia-OP1-NCBD1080.ogg",
+    "clipStartSec": 0,
+    "clipDurationSec": 8,
+    "anime": "我的英雄學院",
+    "correct": "The Day",
+    "distractors": [
+      "紅蓮華",
+      "unravel",
+      "We Are!"
+    ]
+  }
+]

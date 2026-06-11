@@ -1,0 +1,82 @@
+[
+  {
+    "id": "char-naruto",
+    "imageUrl": "https://s4.anilist.co/file/anilistcdn/character/large/b17-phjcWCkRuIhu.png",
+    "correct": "漩渦鳴人",
+    "distractors": [
+      "宇智波佐助",
+      "春野櫻",
+      "旗木卡卡西"
+    ]
+  },
+  {
+    "id": "char-luffy",
+    "imageUrl": "https://s4.anilist.co/file/anilistcdn/character/large/b40-MNypXsxSRb1R.png",
+    "correct": "蒙奇·D·魯夫",
+    "distractors": [
+      "羅羅亞·索隆",
+      "娜美",
+      "山治"
+    ]
+  },
+  {
+    "id": "char-mikasa",
+    "imageUrl": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+    "correct": "米卡莎·阿卡曼",
+    "distractors": [
+      "艾連·葉卡",
+      "阿爾敏·亞魯雷特",
+      "里維·阿卡曼"
+    ]
+  },
+  {
+    "id": "char-tanjiro",
+    "imageUrl": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png",
+    "correct": "竈門炭治郎",
+    "distractors": [
+      "竈門禰豆子",
+      "我妻善逸",
+      "嘴平伊之助"
+    ]
+  },
+  {
+    "id": "char-gojo",
+    "imageUrl": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png",
+    "correct": "五條悟",
+    "distractors": [
+      "虎杖悠仁",
+      "伏黑惠",
+      "釘崎野薔薇"
+    ]
+  },
+  {
+    "id": "char-edward",
+    "imageUrl": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg",
+    "correct": "愛德華·艾力克",
+    "distractors": [
+      "阿爾馮斯·艾力克",
+      "羅伊·馬斯坦古",
+      "溫莉·洛克貝爾"
+    ]
+  },
+  {
+    "id": "char-conan",
+    "imageUrl": "https://s4.anilist.co/file/anilistcdn/character/large/b1742-NiV278NBFOvZ.png",
+    "correct": "江戶川柯南",
+    "distractors": [
+      "毛利蘭",
+      "毛利小五郎",
+      "灰原哀"
+    ]
+  },
+  {
+    "id": "char-sailor-moon",
+    "imageUrl": "https://s4.anilist.co/file/anilistcdn/character/large/b2030-GQvVYPEYkXCy.jpg",
+    "correct": "月野兔",
+    "distractors": [
+      "水野亞美",
+      "火野麗",
+      "木野真琴"
+    ]
+  }
+]
