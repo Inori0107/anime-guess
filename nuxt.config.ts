@@ -8,6 +8,11 @@ export default defineNuxtConfig({
     { path: '~/components/ui', pathPrefix: false },
     { path: '~/components/game', pathPrefix: false },
   ],
+  vite: {
+    optimizeDeps: {
+      include: ['@vue/devtools-core', '@vue/devtools-kit'],
+    },
+  },
   nitro: {
     preset: 'node-server',
     experimental: {
